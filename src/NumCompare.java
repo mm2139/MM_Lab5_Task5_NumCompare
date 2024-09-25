@@ -5,8 +5,8 @@ public class NumCompare {
 
         Scanner scan = new Scanner (System.in);
 
-        double num1;
-        double num2;
+        double num1 = 0;
+        double num2 = 0;
 
         System.out.println("Hello - please input two numbers, separately.");
 
